@@ -7,7 +7,7 @@ namespace Fabrik.Common
     // Credits: Zack Owens (http://weblogs.asp.net/zowens/)
 
     /// <summary>
-    /// Helper class that will throw exceptions when conditions are not satisfied.
+    /// Helper class that will throw exceptions when conditions are not satisfied. My test
     /// </summary>
     public static class Ensure
     {
